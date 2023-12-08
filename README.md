@@ -1,6 +1,6 @@
 # DeltaGround
 ### Roguelike game written in Rust. [Itch.io](https://xtry15.itch.io/deltaground)
-![alt text](https://github.com/Ztry8/DeltaGround/blob/main/1.png?raw=true)
+![screenshot](https://github.com/Ztry8/DeltaGround/blob/main/screenshots/1.png?raw=true)
 
 #### DeltaGround is a roguelike game in the style of old Unix RPG games, with a generated, large world open to exploration. Explore endless fields and forests, huge dungeons! 
 
